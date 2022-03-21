@@ -1,0 +1,2 @@
+# example_platformio
+这是使用Vscode下的platformio插件进行嵌入式开发的案例，案例有ESP32、STM32下的Arduino、IDF、HAL框架。
